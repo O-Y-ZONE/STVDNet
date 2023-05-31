@@ -10,5 +10,7 @@ Example result of real rain.
 
 ## PSNR
 
-
+<img src=https://github.com/O-Y-ZONE/STVDNet/blob/main/image/PSNR.png>  
 ## SSIM
+
+<img src=https://github.com/O-Y-ZONE/STVDNet/blob/main/image/SSIM.png>  
